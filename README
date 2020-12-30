@@ -1,0 +1,4 @@
+This is a nice little java game engine that uses only the default JDK libraries. I use it to make my games, you can use it to if you'd like.
+
+Note: This version is very buggy. It was chosen specifically because the newer, more functional version is merged into a game me and a few other people are developing.
+Maps for this game engine must be developed using a specific map editing tool, which is included. This might be changed in the future.
